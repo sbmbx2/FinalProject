@@ -1,0 +1,16 @@
+# Pixels, Resolution, and Color Channels  
+[⬅ Back](intro.md) | [Home 🏠](README.md) | [Next ➡ Compression](compression.md)
+
+---
+
+## 🎨 How Pixels Store Color
+Each pixel stores color using **RGB values**:
+
+- **R = Red**  
+- **G = Green**  
+- **B = Blue**  
+
+These three channels combine to create millions of colors.
+
+Example:
+
